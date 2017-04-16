@@ -5,10 +5,10 @@ Some scripts to use the raspberrypi camera for shooting images of basically anyt
 
 ## Example images:
 
-![At daytime](example_images/day.png "At daytime")
+![At daytime](example_images/daytime.png "At daytime")
 
 
-![At night](example_images/night.png "At night")
+![At night](example_images/nighttime.png "At night")
 
 
 ## Installation
