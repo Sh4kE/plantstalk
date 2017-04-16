@@ -3,8 +3,7 @@
 # Installation
 
 * Change the path where to store the pictures in the plantstalk script
-* Put something like this in your crontab:
-    0 0 * * * /home/pi/bin/plantstalk.sh
+* Put something like this in your crontab: `0 0 * * * /home/pi/bin/plantstalk.sh`
 
 # convert pictures to video like this:
 ```
