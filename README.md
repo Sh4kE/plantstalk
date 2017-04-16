@@ -1,4 +1,17 @@
 
+###############################################
+ Plantstalk
+##############################################
+
+Some scripts to use the raspberrypi camera for shooting images of basically anything, (e.g. a terrarium).
+
+# Example images:
+
+![At daytime](example_images/day.png "At daytime")
+
+
+![At night](example_images/night.png "At night")
+
 
 # Installation
 
