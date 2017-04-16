@@ -10,7 +10,7 @@ berlin      = ephem.city("Berlin")
 berlin_tz = timezone('Europe/Berlin')
 utc_tz = timezone("UTC")
 
-#Location of Berlin, Germany (Osloer Str. 77)
+#Location of Berlin, Germany
 berlin.lon  = str(13.37)      #Note that lon should be in string format
 berlin.lat  = str(52.56)      #Note that lat should be in string format
 
