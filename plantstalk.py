@@ -34,8 +34,8 @@ json_body = [
 ]
 
 def measure():
-    humidity1, temperature1 = Adafruit_DHT.read_retry(dht_sensor_1, gpio_input_pin1)
-    humidity2, temperature2 = Adafruit_DHT.read_retry(dht_sensor_2, gpio_input_pin2)
+    humidity1, temperature1 = Adafruit_DHT.read_retry(dht_sensor_1, gpio_input_pin_1)
+    humidity2, temperature2 = Adafruit_DHT.read_retry(dht_sensor_2, gpio_input_pin_2)
     pressure = bmp_sensor.read_pressure()
     if not humidity or not temperature1 or not temperature2:
         return measure()
